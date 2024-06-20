@@ -1,3 +1,4 @@
 # demorepository
-This is my my first git repository
+This is my first git repository
+<br> 
 #author Priyanshu Tiwari
